@@ -1,0 +1,26 @@
+{
+  "name": "gulp-babel-boilerplate",
+  "version": "1.0.0",
+  "description": "Gulp Babel Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashtinejad/gulp-babel-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Mojtaba Dashtinejad <mojtaba@gmail.com> (https://github.com/dashtinejad)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashtinejad/gulp-babel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dashtinejad/gulp-babel-boilerplate#readme",
+  "devDependencies": {
+    "babel-preset-latest": "^6.22.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
